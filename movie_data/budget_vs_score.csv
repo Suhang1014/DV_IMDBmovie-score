@@ -1,0 +1,250 @@
+,budget,genre,imdb_score,index,movie_title
+0,170000000.0,Family,7.5,0,Hugo
+1,20000000.0,Drama,8.1,1,12 Years a Slave
+2,18000000.0,Drama,7.6,2,127 Hours
+3,8000000.0,Drama,7.7,3,50/50
+4,12000000.0,Drama,7.8,4,About Time
+5,8900000.0,Drama,7.9,5,Amour
+6,44500000.0,Drama,7.7,6,Argo
+7,3000000.0,Drama,7.9,7,Before Midnight
+8,18000000.0,Drama,7.8,8,Birdman or (The Unexpected Virtue of Ignorance)
+9,13000000.0,Drama,8.0,9,Black Swan
+10,4000000.0,Drama,8.0,10,Boyhood
+11,40000000.0,Drama,7.6,11,Bridge of Spies
+12,55000000.0,Drama,7.9,12,Captain Phillips
+13,35000000.0,Drama,7.7,13,Creed
+14,5000000.0,Drama,8.0,14,Dallas Buyers Club
+15,170000000.0,Drama,7.6,15,Dawn of the Planet of the Apes
+16,100000000.0,Drama,8.5,16,Django Unchained
+17,15000000.0,Drama,7.8,17,Drive
+18,7000000.0,Drama,7.7,18,End of Watch
+19,15000000.0,Drama,7.7,19,Ex Machina
+20,14000000.0,Drama,7.7,20,Flipped
+21,68000000.0,Drama,7.6,21,Fury
+22,61000000.0,Drama,8.1,22,Gone Girl
+23,100000000.0,Drama,7.8,23,Gravity
+24,23000000.0,Drama,8.0,24,Her
+25,170000000.0,Drama,7.5,25,Hugo
+26,165000000.0,Drama,8.6,26,Interstellar
+27,40000000.0,Drama,7.6,27,Lone Survivor
+28,50000000.0,Drama,7.6,28,Moneyball
+29,16000000.0,Drama,7.8,29,Moonrise Kingdom
+30,12000000.0,Drama,7.8,30,Nebraska
+31,8500000.0,Drama,7.9,31,Nightcrawler
+32,12000000.0,Drama,7.6,32,Philomena
+33,46000000.0,Drama,8.1,33,Prisoners
+34,93000000.0,Drama,7.6,34,Rise of the Planet of the Apes
+35,38000000.0,Drama,8.1,35,Rush
+36,30000000.0,Drama,7.6,36,Sicario
+37,21000000.0,Drama,7.8,37,Silver Linings Playbook
+38,20000000.0,Drama,8.1,38,Spotlight
+39,28000000.0,Drama,7.9,39,Straight Outta Compton
+40,15000000.0,Drama,8.0,40,The Artist
+41,28000000.0,Drama,7.8,41,The Big Short
+42,19000000.0,Drama,7.6,42,The Book Thief
+43,12000000.0,Drama,7.8,43,The Fault in Our Stars
+44,25000000.0,Drama,7.9,44,The Fighter
+45,90000000.0,Drama,7.8,45,The Girl with the Dragon Tattoo
+46,25000000.0,Drama,8.1,46,The Grand Budapest Hotel
+47,25000000.0,Drama,8.1,47,The Help
+48,14000000.0,Drama,8.1,48,The Imitation Game
+49,15000000.0,Drama,8.0,49,The King's Speech
+50,81200000.0,Drama,7.8,50,The Little Prince
+51,108000000.0,Drama,8.1,51,The Martian
+52,13000000.0,Drama,8.0,52,The Perks of Being a Wallflower
+53,135000000.0,Drama,8.1,53,The Revenant
+54,40000000.0,Drama,7.7,54,The Social Network
+55,15000000.0,Drama,7.7,55,The Theory of Everything
+56,37000000.0,Drama,7.6,56,The Town
+57,38000000.0,Drama,7.7,57,True Grit
+58,25000000.0,Drama,8.2,58,Warrior
+59,3300000.0,Drama,8.5,59,Whiplash
+60,35000000.0,Sport,7.7,60,Creed
+61,50000000.0,Sport,7.6,61,Moneyball
+62,25000000.0,Sport,8.2,62,Warrior
+63,8000000.0,Comedy,7.7,63,50/50
+64,12000000.0,Comedy,7.8,64,About Time
+65,18000000.0,Comedy,7.8,65,Birdman or (The Unexpected Virtue of Ignorance)
+66,58000000.0,Comedy,8.1,66,Deadpool
+67,69000000.0,Comedy,7.7,67,Despicable Me
+68,14000000.0,Comedy,7.7,68,Flipped
+69,175000000.0,Comedy,8.3,69,Inside Out
+70,30000000.0,Comedy,7.7,70,Kick-Ass
+71,17000000.0,Comedy,7.7,71,Midnight in Paris
+72,16000000.0,Comedy,7.8,72,Moonrise Kingdom
+73,12000000.0,Comedy,7.8,73,Nebraska
+74,60000000.0,Comedy,7.5,74,Scott Pilgrim vs. the World
+75,21000000.0,Comedy,7.8,75,Silver Linings Playbook
+76,260000000.0,Comedy,7.8,76,Tangled
+77,15000000.0,Comedy,8.0,77,The Artist
+78,28000000.0,Comedy,7.8,78,The Big Short
+79,25000000.0,Comedy,8.1,79,The Grand Budapest Hotel
+80,100000000.0,Comedy,8.2,80,The Wolf of Wall Street
+81,200000000.0,Comedy,8.3,81,Toy Story 3
+82,,Comedy,7.6,82,Tucker and Dale vs Evil
+83,165000000.0,Comedy,7.8,83,Wreck-It Ralph
+84,250000000.0,Sci-Fi,8.2,84,Captain America: Civil War
+85,170000000.0,Sci-Fi,7.8,85,Captain America: The Winter Soldier
+86,178000000.0,Sci-Fi,7.9,86,Edge of Tomorrow
+87,15000000.0,Sci-Fi,7.7,87,Ex Machina
+88,100000000.0,Sci-Fi,7.8,88,Gravity
+89,170000000.0,Sci-Fi,8.1,89,Guardians of the Galaxy
+90,23000000.0,Sci-Fi,8.0,90,Her
+91,160000000.0,Sci-Fi,8.8,91,Inception
+92,165000000.0,Sci-Fi,8.6,92,Interstellar
+93,150000000.0,Sci-Fi,8.1,93,Mad Max: Fury Road
+94,93000000.0,Sci-Fi,7.6,94,Rise of the Planet of the Apes
+95,190000000.0,Sci-Fi,7.8,95,Star Trek Into Darkness
+96,220000000.0,Sci-Fi,8.1,96,The Avengers
+97,220000000.0,Sci-Fi,8.1,97,The Avengers
+98,108000000.0,Sci-Fi,8.1,98,The Martian
+99,200000000.0,Sci-Fi,8.0,99,X-Men: Days of Future Past
+100,160000000.0,Sci-Fi,7.8,100,X-Men: First Class
+101,68000000.0,War,7.6,101,Fury
+102,19000000.0,War,7.6,102,The Book Thief
+103,165000000.0,Animation,7.9,103,Big Hero 6
+104,69000000.0,Animation,7.7,104,Despicable Me
+105,145000000.0,Animation,7.9,105,How to Train Your Dragon 2
+106,165000000.0,Animation,8.2,106,How to Train Your Dragon
+107,175000000.0,Animation,8.3,107,Inside Out
+108,260000000.0,Animation,7.8,108,Tangled
+109,60000000.0,Animation,7.8,109,The Lego Movie
+110,81200000.0,Animation,7.8,110,The Little Prince
+111,200000000.0,Animation,8.3,111,Toy Story 3
+112,165000000.0,Animation,7.8,112,Wreck-It Ralph
+113,,Horror,7.6,113,Tucker and Dale vs Evil
+114,3300000.0,Music,8.5,114,Whiplash
+115,15000000.0,Crime,7.8,115,Drive
+116,7000000.0,Crime,7.7,116,End of Watch
+117,61000000.0,Crime,8.1,117,Gone Girl
+118,8500000.0,Crime,7.9,118,Nightcrawler
+119,46000000.0,Crime,8.1,119,Prisoners
+120,30000000.0,Crime,7.6,120,Sicario
+121,20000000.0,Crime,8.1,121,Spotlight
+122,90000000.0,Crime,7.8,122,The Girl with the Dragon Tattoo
+123,37000000.0,Crime,7.6,123,The Town
+124,100000000.0,Crime,8.2,124,The Wolf of Wall Street
+125,20000000.0,Biography,8.1,125,12 Years a Slave
+126,18000000.0,Biography,7.6,126,127 Hours
+127,44500000.0,Biography,7.7,127,Argo
+128,55000000.0,Biography,7.9,128,Captain Phillips
+129,5000000.0,Biography,8.0,129,Dallas Buyers Club
+130,40000000.0,Biography,7.6,130,Lone Survivor
+131,50000000.0,Biography,7.6,131,Moneyball
+132,12000000.0,Biography,7.6,132,Philomena
+133,38000000.0,Biography,8.1,133,Rush
+134,28000000.0,Biography,7.9,134,Straight Outta Compton
+135,28000000.0,Biography,7.8,135,The Big Short
+136,25000000.0,Biography,7.9,136,The Fighter
+137,14000000.0,Biography,8.1,137,The Imitation Game
+138,15000000.0,Biography,8.0,138,The King's Speech
+139,40000000.0,Biography,7.7,139,The Social Network
+140,15000000.0,Biography,7.7,140,The Theory of Everything
+141,100000000.0,Biography,8.2,141,The Wolf of Wall Street
+142,44500000.0,Action,7.7,142,Argo
+143,165000000.0,Action,7.9,143,Big Hero 6
+144,250000000.0,Action,8.2,144,Captain America: Civil War
+145,170000000.0,Action,7.8,145,Captain America: The Winter Soldier
+146,170000000.0,Action,7.6,146,Dawn of the Planet of the Apes
+147,58000000.0,Action,8.1,147,Deadpool
+148,178000000.0,Action,7.9,148,Edge of Tomorrow
+149,68000000.0,Action,7.6,149,Fury
+150,170000000.0,Action,8.1,150,Guardians of the Galaxy
+151,145000000.0,Action,7.9,151,How to Train Your Dragon 2
+152,165000000.0,Action,8.2,152,How to Train Your Dragon
+153,160000000.0,Action,8.8,153,Inception
+154,30000000.0,Action,7.7,154,Kick-Ass
+155,40000000.0,Action,7.6,155,Lone Survivor
+156,150000000.0,Action,8.1,156,Mad Max: Fury Road
+157,93000000.0,Action,7.6,157,Rise of the Planet of the Apes
+158,38000000.0,Action,8.1,158,Rush
+159,60000000.0,Action,7.5,159,Scott Pilgrim vs. the World
+160,30000000.0,Action,7.6,160,Sicario
+161,200000000.0,Action,7.8,161,Skyfall
+162,200000000.0,Action,7.8,162,Skyfall
+163,190000000.0,Action,7.8,163,Star Trek Into Darkness
+164,220000000.0,Action,8.1,164,The Avengers
+165,220000000.0,Action,8.1,165,The Avengers
+166,250000000.0,Action,8.5,166,The Dark Knight Rises
+167,25000000.0,Action,7.9,167,The Fighter
+168,130000000.0,Action,7.6,168,The Hunger Games: Catching Fire
+169,60000000.0,Action,7.8,169,The Lego Movie
+170,25000000.0,Action,8.2,170,Warrior
+171,200000000.0,Action,8.0,171,X-Men: Days of Future Past
+172,160000000.0,Action,7.8,172,X-Men: First Class
+173,8000000.0,Romance,7.7,173,50/50
+174,8900000.0,Romance,7.9,174,Amour
+175,3000000.0,Romance,7.9,175,Before Midnight
+176,14000000.0,Romance,7.7,176,Flipped
+177,23000000.0,Romance,8.0,177,Her
+178,17000000.0,Romance,7.7,178,Midnight in Paris
+179,60000000.0,Romance,7.5,179,Scott Pilgrim vs. the World
+180,21000000.0,Romance,7.8,180,Silver Linings Playbook
+181,15000000.0,Romance,8.0,181,The Artist
+182,12000000.0,Romance,7.8,182,The Fault in Our Stars
+183,13000000.0,Romance,8.0,183,The Perks of Being a Wallflower
+184,15000000.0,Romance,7.7,184,The Theory of Everything
+185,20000000.0,History,8.1,185,12 Years a Slave
+186,40000000.0,History,7.6,186,Bridge of Spies
+187,20000000.0,History,8.1,187,Spotlight
+188,28000000.0,History,7.9,188,Straight Outta Compton
+189,12000000.0,Fantasy,7.8,189,About Time
+190,17000000.0,Fantasy,7.7,190,Midnight in Paris
+191,180000000.0,Fantasy,7.9,191,The Hobbit: An Unexpected Journey
+192,225000000.0,Fantasy,7.9,192,The Hobbit: The Desolation of Smaug
+193,13000000.0,Thriller,8.0,193,Black Swan
+194,40000000.0,Thriller,7.6,194,Bridge of Spies
+195,55000000.0,Thriller,7.9,195,Captain Phillips
+196,7000000.0,Thriller,7.7,196,End of Watch
+197,100000000.0,Thriller,7.8,197,Gravity
+198,8500000.0,Thriller,7.9,198,Nightcrawler
+199,80000000.0,Thriller,8.1,199,Shutter Island
+200,200000000.0,Thriller,7.8,200,Skyfall
+201,200000000.0,Thriller,7.8,201,Skyfall
+202,250000000.0,Thriller,8.5,202,The Dark Knight Rises
+203,14000000.0,Thriller,8.1,203,The Imitation Game
+204,135000000.0,Thriller,8.1,204,The Revenant
+205,37000000.0,Thriller,7.6,205,The Town
+206,100000000.0,Western,8.5,206,Django Unchained
+207,38000000.0,Western,7.7,207,True Grit
+208,18000000.0,Adventure,7.6,208,127 Hours
+209,165000000.0,Adventure,7.9,209,Big Hero 6
+210,250000000.0,Adventure,8.2,210,Captain America: Civil War
+211,170000000.0,Adventure,7.8,211,Captain America: The Winter Soldier
+212,170000000.0,Adventure,7.6,212,Dawn of the Planet of the Apes
+213,58000000.0,Adventure,8.1,213,Deadpool
+214,69000000.0,Adventure,7.7,214,Despicable Me
+215,178000000.0,Adventure,7.9,215,Edge of Tomorrow
+216,170000000.0,Adventure,8.1,216,Guardians of the Galaxy
+217,145000000.0,Adventure,7.9,217,How to Train Your Dragon 2
+218,165000000.0,Adventure,8.2,218,How to Train Your Dragon
+219,170000000.0,Adventure,7.5,219,Hugo
+220,160000000.0,Adventure,8.8,220,Inception
+221,175000000.0,Adventure,8.3,221,Inside Out
+222,165000000.0,Adventure,8.6,222,Interstellar
+223,150000000.0,Adventure,8.1,223,Mad Max: Fury Road
+224,16000000.0,Adventure,7.8,224,Moonrise Kingdom
+225,12000000.0,Adventure,7.8,225,Nebraska
+226,200000000.0,Adventure,7.8,226,Skyfall
+227,200000000.0,Adventure,7.8,227,Skyfall
+228,190000000.0,Adventure,7.8,228,Star Trek Into Darkness
+229,260000000.0,Adventure,7.8,229,Tangled
+230,25000000.0,Adventure,8.1,230,The Grand Budapest Hotel
+231,180000000.0,Adventure,7.9,231,The Hobbit: An Unexpected Journey
+232,225000000.0,Adventure,7.9,232,The Hobbit: The Desolation of Smaug
+233,130000000.0,Adventure,7.6,233,The Hunger Games: Catching Fire
+234,60000000.0,Adventure,7.8,234,The Lego Movie
+235,81200000.0,Adventure,7.8,235,The Little Prince
+236,108000000.0,Adventure,8.1,236,The Martian
+237,135000000.0,Adventure,8.1,237,The Revenant
+238,200000000.0,Adventure,8.3,238,Toy Story 3
+239,38000000.0,Adventure,7.7,239,True Grit
+240,165000000.0,Adventure,7.8,240,Wreck-It Ralph
+241,200000000.0,Adventure,8.0,241,X-Men: Days of Future Past
+242,160000000.0,Adventure,7.8,242,X-Men: First Class
+243,15000000.0,Mystery,7.7,243,Ex Machina
+244,61000000.0,Mystery,8.1,244,Gone Girl
+245,46000000.0,Mystery,8.1,245,Prisoners
+246,80000000.0,Mystery,8.1,246,Shutter Island
+247,90000000.0,Mystery,7.8,247,The Girl with the Dragon Tattoo
+248,130000000.0,Mystery,7.6,248,The Hunger Games: Catching Fire
