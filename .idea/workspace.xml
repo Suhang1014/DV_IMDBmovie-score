@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8851c934-ae7f-4022-9ec4-36f79f5b2a69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Data_Cleaning&amp;Processing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Data_Cleaning&amp;Processing-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data_Cleaning&amp;Processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Cleaning&amp;Processing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie_data/.~DV_CW__11839.twbr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie_data/DV_CW.twb" beforeDir="false" afterPath="$PROJECT_DIR$/movie_data/DV_CW.twb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Dashboard.twb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Dashboard.twb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullpage/fullpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/fullpage/fullpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_data/average_score_agegroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/movie_data/average_score_agegroup.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_data/average_score_agegroupf.csv" beforeDir="false" afterPath="$PROJECT_DIR$/movie_data/average_score_agegroupf.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_data/average_score_agegroupm.csv" beforeDir="false" afterPath="$PROJECT_DIR$/movie_data/average_score_agegroupm.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_data/budget_vs_score.csv" beforeDir="false" afterPath="$PROJECT_DIR$/movie_data/budget_vs_score.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_data/movie_metadata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/movie_data/movie_metadata.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,65 +27,85 @@
     <session id="-1340974435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
+          <entry key="css" value="3" />
+          <entry key="html" value="7" />
+          <entry key="ipynb" value="1" />
+          <entry key="js" value="11" />
+          <entry key="json" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="7" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="11" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="14" />
-          <entry key="js" value="571" />
+          <entry key="css" value="99" />
+          <entry key="html" value="656" />
+          <entry key="js" value="6023" />
+          <entry key="json" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="14" />
-          <entry key="JavaScript" value="571" />
+          <entry key="CSS" value="99" />
+          <entry key="HTML" value="656" />
+          <entry key="JSON" value="27" />
+          <entry key="JavaScript" value="6023" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D3/movie.html">
+        <entry file="file://$PROJECT_DIR$/HTML/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="68" />
               <folding>
-                <element signature="n#style#0;n#link#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D3/movie_charts.js">
+        <entry file="file://$PROJECT_DIR$/HTML/js/my_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="345">
+              <caret line="480" column="7" selection-start-line="480" selection-start-column="7" selection-end-line="480" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D3/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/HTML/js/shine.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -86,11 +113,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console</find>
+      <find>init</find>
+      <find>$.get</find>
+      <find>get</find>
+      <find>getJSON</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,6 +137,21 @@
         <option value="$PROJECT_DIR$/D3/movie.html" />
         <option value="$PROJECT_DIR$/D3/style.css" />
         <option value="$PROJECT_DIR$/D3/movie_charts.js" />
+        <option value="$PROJECT_DIR$/HTML/dashboard.html" />
+        <option value="$PROJECT_DIR$/HTML/dashboard_style.css" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/echarts.js" />
+        <option value="$PROJECT_DIR$/my_script.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/HTML/test.js" />
+        <option value="$PROJECT_DIR$/HTML/fullpage.html" />
+        <option value="$PROJECT_DIR$/HTML/fullpage.css" />
+        <option value="$PROJECT_DIR$/movie_data/num_country_above_average.json" />
+        <option value="$PROJECT_DIR$/HTML/dark.js" />
+        <option value="$PROJECT_DIR$/HTML/shine.js" />
+        <option value="$PROJECT_DIR$/HTML/my_script.js" />
+        <option value="$PROJECT_DIR$/HTML/test.html" />
+        <option value="$PROJECT_DIR$/HTML/js/my_script.js" />
       </list>
     </option>
   </component>
@@ -109,6 +160,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/HTML/echarts-wordcloud-master/package.json" />
+      <path value="$PROJECT_DIR$/HTML/material-dashboard-html-v2.1.1/package.json" />
+      <path value="$PROJECT_DIR$/echarts-2.2.7/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -123,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,26 +192,30 @@
             <path>
               <item name="DataVisualization_cw_movie-score" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataVisualization_cw_movie-score" type="462c0819:PsiDirectoryNode" />
-              <item name="D3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataVisualization_cw_movie-score" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataVisualization_cw_movie-score" type="462c0819:PsiDirectoryNode" />
-              <item name="movie_data" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,29 +240,37 @@
       <option name="presentableId" value="Default" />
       <updated>1545838537364</updated>
       <workItem from="1545838540994" duration="6910000" />
+      <workItem from="1546101581117" duration="1328000" />
+      <workItem from="1546298872755" duration="17456000" />
+      <workItem from="1546463725307" duration="4625000" />
+      <workItem from="1546469424292" duration="1649000" />
+      <workItem from="1546471843332" duration="16880000" />
+      <workItem from="1546526799195" duration="24000" />
+      <workItem from="1546527284550" duration="6367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6910000" />
+    <option name="totallyTimeSpent" value="55239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,23 +283,78 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D3/movie.html">
+    <entry file="file://$PROJECT_DIR$/D3/movie.html" />
+    <entry file="file://$PROJECT_DIR$/D3/style.css" />
+    <entry file="file://$PROJECT_DIR$/D3/movie_charts.js" />
+    <entry file="file://$PROJECT_DIR$/Data_Cleaning&amp;Processing.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149775" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/my_script.js" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/dashboard_style.css" />
+    <entry file="file://$PROJECT_DIR$/HTML/test.js" />
+    <entry file="file://$PROJECT_DIR$/HTML/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/WordCloud.js" />
+    <entry file="file://$PROJECT_DIR$/HTML/fullpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_data/num_genres.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_data/num_country_above_average.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1040" lean-forward="true" selection-start-column="1040" selection-end-column="1040" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_data/budget_vs_score.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/fullpage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1174">
+          <caret line="145" column="23" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/dark.js" />
+    <entry file="file://$PROJECT_DIR$/HTML/shine.js" />
+    <entry file="file://$PROJECT_DIR$/HTML/my_script.js" />
+    <entry file="file://$PROJECT_DIR$/HTML/data/.ipynb_checkpoints/nodes_director-checkpoint.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/js/shine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="68" />
           <folding>
-            <element signature="n#style#0;n#link#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D3/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3/movie_charts.js">
+    <entry file="file://$PROJECT_DIR$/HTML/js/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="345">
+          <caret line="480" column="7" selection-start-line="480" selection-start-column="7" selection-end-line="480" selection-end-column="7" />
         </state>
       </provider>
     </entry>
