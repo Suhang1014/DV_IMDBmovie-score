@@ -121,8 +121,8 @@ p{
 }
 #menu li.active{
 	margin: auto;
-	background:#666;
-	background: rgba(0,0,0, 0.5);
+	background: #81A140;
+	/*background: rgba(0,0,0, 0.5);*/
 	color: #fff;
 }
 #menu li a,
@@ -131,6 +131,9 @@ p{
 	display:block;
 }
 #menu li.active a{
+	color: #fff;
+}
+#menu li.active a:hover{
 	color: #fff;
 }
 #menu{
@@ -172,6 +175,16 @@ p{
 .intro_content {
 	margin-top: 50px;
 }
+/*#section1, #section2, #section3, #section4, #section5, #slide_4_1, #slide_4_2, #slide_4_3 {*/
+	/*background-size: cover;*/
+	/*background-attachment: fixed;*/
+/*}*/
+/*#section1 {*/
+	/*background-image: url('../imgs/background_image.png');*/
+	/*-moz-background-image: url("../imgs/background_image.png");*/
+	/*-webkit-background-image: url("../imgs/background_image.png");*/
+	/*-o-background-image: url("../imgs/background_image.png");*/
+/*}*/
  /* Charts
   */
 .chart_wrapper {
@@ -195,31 +208,32 @@ p{
 	margin-bottom: auto;
 	height: 600px;
 	float: left;
-	line-height: 26px;
+	line-height: 24px;
 }
 .story_container p, li {
 	font-size: 18px;
 	text-align: left;
 }
+.story_container span {
+	text-decoration: underline;
+	color: darkorange;
+}
+#slide_5_1 p,li,span {
+	font-size: 17px;
+	line-height: 17px;
+}
+.attention {
+	text-decoration: underline;
+	color: crimson;
+}
 .maleChart_des p, li{
 	line-height: 23px;
 }
-.budgetScore_des p {
+.budgetScore_des p,span {
 	font-size: 18px;
-	line-height: 20px;
+	line-height: 18px;
 }
-#age_chart {
-	width: 900px;
-	height: 600px;
-	margin: auto;
-}
-
-#female_chart {
-	width: 900px;
-	height: 600px;
-	margin: auto;
-}
-#male_chart {
+#year_score {
 	width: 900px;
 	height: 600px;
 	margin: auto;
@@ -234,8 +248,29 @@ p{
 	height: 600px;
 	margin: auto;
 }
+#age_chart {
+	width: 900px;
+	height: 600px;
+	margin: auto;
+}
+#female_chart {
+	width: 900px;
+	height: 600px;
+	margin: auto;
+}
+#male_chart {
+	width: 900px;
+	height: 600px;
+	margin: auto;
+}
 #budget_score {
 	width: 900px;
 	height: 600px;
 	margin: auto;
 }
+#relationship {
+	width: 900px;
+	height: 600px;
+	margin: auto;
+}
+

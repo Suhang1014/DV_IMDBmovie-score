@@ -2,185 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb78ff33-647a-4447-af2b-93a21925643d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DV_SH_movieFullpage/main_content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DV_SH_movieFullpage/main_content/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DV_presentation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data_Cleaning&amp;Processing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IMDB5000_Processing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/BACKERS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.extensions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/dist/fullpage.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/.ipynb_checkpoints/nodes_director-checkpoint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/average_score_agegroup.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/average_score_agegroupf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/average_score_agegroupm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/budget_vs_score.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/links_test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/nodes_director.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/nodes_test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/num_country.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/num_country_above_average.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/data/num_genres.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/background_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/bg4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/bg5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/compatible.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/copyright.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/en-language-inactive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/en-language.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/es-language-inactive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/es-language.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/example2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/flowers.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/flowers.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/fullPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/horse.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/horse.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/intro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone-blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone-green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone-red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone-two.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone-yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/iphone4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/slider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/tablets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/imgs/used-by-fullpage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/jquery-adapter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/dark.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/echarts-wordcloud.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/echarts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/echarts.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/fullPage.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/my_script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/shine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/js/world.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/browserify-example/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/browserify-example/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/browserify-example/dist/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/browserify-example/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/browserify-example/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/requirejs-example/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/requirejs-example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/requirejs-example/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/requirejs-example/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/requirejs-example/src/require.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/webpack-example/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/webpack-example/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/webpack-example/dist/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/webpack-example/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/webpack-example/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/module_loaders/webpack-example/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/examples/mystyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/chinese/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/chinese/how-to-activate-fullpage-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/chinese/parallax-extensionmd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/korean/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/korean/how-to-activate-fullpage-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/korean/parallax-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/russian/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/russian/how-to-activate-fullpage-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/russian/parallax-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/spanish/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/spanish/how-to-activate-fullpage-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/lang/spanish/parallax-extension.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/src/fullpage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/src/fullpage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/arrows.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/bigSectionsDestination.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/callbacks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/callbacksV3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/continuousVertical.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/destroy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/displayWarnings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/easingcss3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/fitToSection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/fixedElements.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/keyboardScrolling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/lazyload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/lockAnchors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/loopBottom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/loopTop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/moveSectionDown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/moveSectionUp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/moveSlideLeft.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/moveSlideRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/moveTo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/normalScrollElements.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/paddings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/recordHistory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/responsiveHeight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/responsiveWidth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/scrollBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/scrollingSpeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/sectionsColor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/setAllowScrolling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/setAutoScrolling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/silentMoveTo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/slidesNavigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/unit/verticalCentered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/tests/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/vendors/easings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/vendors/easings.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/vendors/easings.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/vendors/scrolloverflow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/vendors/scrolloverflow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_page/fullPage.js-master/vendors/scrolloverflow.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/.ipynb_checkpoints/IMDB(2)-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/.ipynb_checkpoints/average_score_agegroup-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/.ipynb_checkpoints/average_score_agegroupf-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/.ipynb_checkpoints/movie_cleandata-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/.ipynb_checkpoints/movie_metadata-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/.ipynb_checkpoints/num_country_above_average-checkpoint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/DV_CW.twb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/IMDB(2).csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/IMDB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/average_score_agegroup.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/average_score_agegroup.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/average_score_agegroupf.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/average_score_agegroupf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/average_score_agegroupm.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/average_score_agegroupm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/budget_vs_score.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/budget_vs_score.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/movie_cleandata.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/movie_metadata.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/num_country.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/num_country.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/num_country_above_average.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/num_country_above_avgscore.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/num_genres.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie_data/num_genres.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/Data_Cleaning&amp;Processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data_processing/Data_Cleaning&amp;Processing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../report/report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../report/report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my_script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -196,8 +23,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+            <state relative-caret-position="502">
+              <caret line="296" column="51" selection-start-line="296" selection-start-column="51" selection-end-line="296" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="865">
+              <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/my_script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="794" column="10" lean-forward="true" selection-start-line="794" selection-start-column="10" selection-end-line="794" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -210,15 +55,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/js/my_script.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1857" />
-    <option name="y" value="24" />
-    <option name="width" value="1715" />
-    <option name="height" value="1518" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -232,7 +78,18 @@
           <expand>
             <path>
               <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sh_movie_fullpage" type="462c0819:PsiDirectoryNode" />
+              <item name="sh_dv_cw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sh_dv_cw" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sh_dv_cw" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,9 +102,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/js/echarts" />
     </key>
@@ -276,16 +135,18 @@
       <updated>1546707079012</updated>
       <workItem from="1546707080613" duration="629000" />
       <workItem from="1546707941133" duration="272000" />
+      <workItem from="1546894834070" duration="14767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="901000" />
+    <option name="totallyTimeSpent" value="15668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1857" y="24" width="1715" height="1518" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -296,7 +157,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923833" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -308,19 +169,25 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/test.js">
+    <entry file="file://$PROJECT_DIR$/js/test.js" />
+    <entry file="file://$PROJECT_DIR$/js/my_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="197">
+          <caret line="794" column="10" lean-forward="true" selection-start-line="794" selection-start-column="10" selection-end-line="794" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        <state relative-caret-position="502">
+          <caret line="296" column="51" selection-start-line="296" selection-start-column="51" selection-end-line="296" selection-end-column="51" />
         </state>
       </provider>
     </entry>
