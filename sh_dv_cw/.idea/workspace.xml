@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb78ff33-647a-4447-af2b-93a21925643d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../data_processing/Data_Cleaning&amp;Processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data_processing/Data_Cleaning&amp;Processing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../report/report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../report/report.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/my_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my_script.js" afterDir="false" />
-    </list>
+    <list default="true" id="bb78ff33-647a-4447-af2b-93a21925643d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
+            <state relative-caret-position="2691">
               <caret line="296" column="51" selection-start-line="296" selection-start-column="51" selection-end-line="296" selection-end-column="51" />
             </state>
           </provider>
@@ -80,17 +73,6 @@
               <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
               <item name="sh_dv_cw" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sh_dv_cw" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sh_dv_cw" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="echarts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -135,16 +117,15 @@
       <updated>1546707079012</updated>
       <workItem from="1546707080613" duration="629000" />
       <workItem from="1546707941133" duration="272000" />
-      <workItem from="1546894834070" duration="14767000" />
+      <workItem from="1546894834070" duration="15368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15668000" />
+    <option name="totallyTimeSpent" value="16269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -186,7 +167,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
+        <state relative-caret-position="2691">
           <caret line="296" column="51" selection-start-line="296" selection-start-column="51" selection-end-line="296" selection-end-column="51" />
         </state>
       </provider>
