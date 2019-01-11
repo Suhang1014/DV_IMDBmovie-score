@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb78ff33-647a-4447-af2b-93a21925643d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/.ipynb_checkpoints/Data_Cleaning&amp;Processing-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/.ipynb_checkpoints/IMDB5000_Processing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data_processing/.ipynb_checkpoints/IMDB5000_Processing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/.ipynb_checkpoints/IMDB(2)-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/.ipynb_checkpoints/average_score_agegroup-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/.ipynb_checkpoints/average_score_agegroupf-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/.ipynb_checkpoints/movie_cleandata-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/.ipynb_checkpoints/movie_metadata-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/.ipynb_checkpoints/num_country_above_average-checkpoint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/DV_CW.twb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/IMDB(2).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/IMDB.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/average_score_agegroup.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/average_score_agegroup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/average_score_agegroupf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/average_score_agegroupf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/average_score_agegroupm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/average_score_agegroupm.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/budget_vs_score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/budget_vs_score.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/movie_cleandata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/movie_metadata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/num_country.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/num_country.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/num_country_above_average.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/num_country_above_avgscore.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/num_genres.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/num_genres.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_processing/movie_data/relationship_test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../report/charts_images/The Trend of Average Score with Time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../report/report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../report/report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sh_dv_cw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/.idea/Data_Story_code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/.ipynb_checkpoints/nodes_director-checkpoint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/.ipynb_checkpoints/nodes_director-checkpoint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/average_score_agegroup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/average_score_agegroup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/average_score_agegroupf.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/average_score_agegroupf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/average_score_agegroupm.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/average_score_agegroupm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/budget_vs_score.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/budget_vs_score.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/links_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/links_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/nodes_director.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/nodes_director.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/nodes_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/nodes_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/num_country.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/num_country.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/num_country_above_average.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/num_country_above_average.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/num_genres.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/num_genres.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/relationship_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/relationship_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/year_avgs.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/data/year_avgs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/background_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/imgs/background_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/dark.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/dark.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/ecStat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/ecStat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/echarts-wordcloud.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/echarts-wordcloud.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/echarts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/echarts.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/shine.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/shine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/echarts/world.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/echarts/world.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.extensions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.extensions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fullpage/fullpage.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/fullpage/fullpage.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Story_code/js/my_script.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data_Story_code/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="83" column="62" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data_Story_code/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-103">
+              <caret line="226" column="19" selection-start-line="226" selection-start-column="19" selection-end-line="226" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Data_Story_code/js/my_script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="855" column="60" selection-start-line="855" selection-start-column="60" selection-end-line="855" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data_Story_code/data/links_test.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data_Story_code/data/nodes_test.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6759" lean-forward="true" selection-start-column="6759" selection-end-column="6759" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/js/my_script.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../Data_Story_code/css/index.css" />
+        <option value="$PROJECT_DIR$/../Data_Story_code/index.html" />
+        <option value="$PROJECT_DIR$/../Data_Story_code/js/my_script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data_Story_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sh_dv_cw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data_Story_code" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/js/echarts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb78ff33-647a-4447-af2b-93a21925643d" name="Default Changelist" comment="" />
+      <created>1546707079012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546707079012</updated>
+      <workItem from="1546707080613" duration="629000" />
+      <workItem from="1546707941133" duration="272000" />
+      <workItem from="1546894834070" duration="24080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24981000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923833" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/test.js" />
+    <entry file="file://$PROJECT_DIR$/../Data_Story_code/data/links_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data_Story_code/data/nodes_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6759" lean-forward="true" selection-start-column="6759" selection-end-column="6759" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data_Story_code/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="83" column="62" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data_Story_code/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="226" column="19" selection-start-line="226" selection-start-column="19" selection-end-line="226" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data_Story_code/js/my_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="855" column="60" selection-start-line="855" selection-start-column="60" selection-end-line="855" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
